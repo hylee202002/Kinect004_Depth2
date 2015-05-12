@@ -1,0 +1,17 @@
+﻿<Window x:Class="AverageDistance.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="575" Width="620">
+    <Grid>
+        <Image Name="img1" HorizontalAlignment="Left" Height="480" VerticalAlignment="Top" Width="620"/>
+        <TextBlock Name="txtNumberOfPixel" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Margin="128,485,0,0" Height="49" Width="90"/>
+        <TextBlock Name="txtAvgDistance" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Margin="445,485,0,0" Height="49" Width="90"/>
+        <Label Content="Number Of Pixel" HorizontalAlignment="Left" Height="51" Margin="17,483,0,0" VerticalAlignment="Top" Width="111"/>
+        <Label Content="Average Distance" HorizontalAlignment="Left" Height="51" Margin="328,480,0,0" VerticalAlignment="Top" Width="112"/>
+        <Button Name="btnStart" Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="248,511,0,0" Click="btnStart_Click"/>
+
+
+
+
+    </Grid>
+</Window>

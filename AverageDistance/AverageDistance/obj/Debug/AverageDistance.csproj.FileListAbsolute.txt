@@ -1,0 +1,13 @@
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\bin\Debug\AverageDistance.exe.config
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\bin\Debug\AverageDistance.exe
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\bin\Debug\AverageDistance.pdb
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance.csprojResolveAssemblyReference.cache
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\MainWindow.baml
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\MainWindow.g.cs
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\App.g.cs
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance_MarkupCompile.cache
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance.g.resources
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance.Properties.Resources.resources
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance.csproj.GenerateResource.Cache
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance.exe
+D:\GitHub\Kinect004_Depth2\AverageDistance\AverageDistance\obj\Debug\AverageDistance.pdb

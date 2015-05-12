@@ -1,0 +1,13 @@
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\bin\Debug\Coordinate.exe.config
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\bin\Debug\Coordinate.exe
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\bin\Debug\Coordinate.pdb
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate.csprojResolveAssemblyReference.cache
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\MainWindow.baml
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\MainWindow.g.cs
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\App.g.cs
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate_MarkupCompile.cache
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate.g.resources
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate.Properties.Resources.resources
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate.csproj.GenerateResource.Cache
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate.exe
+D:\GitHub\Kinect004_Depth2\Coordinate\Coordinate\obj\Debug\Coordinate.pdb
